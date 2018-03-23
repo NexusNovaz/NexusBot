@@ -1,0 +1,12 @@
+{
+  "name": "NexusBot",
+  "description": "A bot built by NexusNovaz",
+  "version": "0.0.1",
+  "main": "bot.py",
+  "scripts": {
+    "start": "python bot.py"
+   },
+   "dependencies": {
+    "discord.py": "3.7"
+   }
+}
