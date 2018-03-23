@@ -1,0 +1,105 @@
+{
+  "name" : "Spectrum",
+
+  "mil-spec" : [
+      {
+          "weapon" : "PP-Bizon",
+          "skin" : "Jungle Slipstream",
+          "float" : {"min" : 0.00, "max" : 0.50},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_hy_bizon_torn_green_light_large.1aa076ede6a2511bf676ffb1c5a3eafca71c58a6.png"
+      },
+      {
+          "weapon" : "MP7",
+          "skin" : "Akeben",
+          "float" : {"min" : 0.00, "max" : 0.70},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_sp_mp7_tribal_yellow_light_large.1c05d27487feb5d82e8165721942ea3a67e6ba33.png"
+      },
+      {
+          "weapon" : "Sawed-Off",
+          "skin" : "Zander",
+          "float" : {"min" : 0.05, "max" : 1.00},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_aq_sawedoff_zander2_light_large.514f7c6c606296838f56020877d7762c594dc4bd.png"
+      },
+      {
+          "weapon" : "P250",
+          "skin" : "Ripple",
+          "float" : {"min" : 0.00, "max" : 0.50},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_am_p250_sputnik_light_large.38766530975aaa4006dda7a24533ac1b05a6b6a8.png"
+      },
+      {
+          "weapon" : "Scar-20",
+          "skin" : "Blueprint",
+          "float" : {"min" : 0.00, "max" : 0.75},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_cu_blueprint_scar_light_large.9a71e8191c2b2081f5fd3884f57f919663b26ee5.png"
+      },
+      {
+          "weapon" : "Five-SeveN",
+          "skin" : "Capillary",
+          "float" : {"min" : 0.00, "max" : 0.70},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_fiveseven_vein_light_large.464ec691b3c3c9c828aa1a8d4e2b076daa4b7a4f.png"
+      },
+      {
+          "weapon" : "Desert Eagle",
+          "skin" : "Oxide Blade",
+          "float" : {"min" : 0.00, "max" : 0.50},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_cu_desert_eagle_corroden_light_large.5fde2cc1c9b82b0e9823445c7fb2be334bc286af.png"
+      }
+  ],
+  "restricted" : [
+      {
+          "weapon" : "Galil AR",
+          "skin" : "Crimson Tsunami",
+          "float" : {"min" : 0.00, "max" : 0.55},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_sp_galil_wave_light_large.0a4761ebb660428a77a622885054e1c44cf03959.png"
+      },
+      {
+          "weapon" : "XM1014",
+          "skin" : "Seasons",
+          "float" : {"min" : 0.00, "max" : 0.50}, 
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_aq_xm_leaf_fade_light_large.f753b1b710a8023e299d1918ca150b42483ca1cd.png"
+      },
+      {
+          "weapon" : "MAC-10",
+          "skin" : "Last Dive",
+          "float" : {"min" : 0.00, "max" : 0.52},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_aa_mac10_the_last_dive_light_large.ea426d5c127e278f2ee79b25db1b90e0355a6db2.png"
+      },
+      {
+          "weapon" : "",
+          "skin" : "",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : ""
+      },
+      {
+          "weapon" : "",
+          "skin" : "",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : ""
+      },
+
+  ],
+  "classified" : [
+      {
+          "weapon" : "",
+          "skin" : "",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : ""
+      }
+  ],
+  "covert" : [
+      {
+          "weapon" : "",
+          "skin" : "",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : ""
+      }
+  ],
+  "special" : [
+      {
+          "weapon" : "",
+          "skin" : "",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : ""
+      }
+  ]
+}

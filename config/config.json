@@ -1,0 +1,11 @@
+{
+    "owner": "153284216228937728",
+    "token": "",
+    "bot_name": "NexusBot",
+    "bot_avatar": "avatar.png",
+    "command_prefix": "-",
+    "commands_on_edit": true,
+    "log_file": "NovaBot.log",
+    "log_messages": true,
+    "log_commands": true
+}

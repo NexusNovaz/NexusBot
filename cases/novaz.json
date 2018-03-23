@@ -1,0 +1,140 @@
+{
+  "name" : "Novaz'",
+
+  "mil-spec" : [
+      {
+          "weapon" : "AK-47",
+          "skin" : "Elite Build",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_mastery_light_large.4305c0ba4b02ce531fc08c275fa6a9d87da2cf7e.png"
+      },
+      {
+          "weapon" : "G3SG1",
+          "skin" : "Ventilator",
+          "float" : {"min" : 0.00, "max" : 0.45},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_gs_g3sg1_ventilator_light_large.5cd3643d4d9cd0599e25a1302e788611bd9a0023.png"
+      },
+      {
+          "weapon" : "P2000",
+          "skin" : "Chainmail",
+          "float" : {"min" : 0.00, "max" : 0.22},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_am_chainmail_light_large.26e8d5e01b6af8dc85be34cf16830ef6280166fd.png"
+      },
+      {
+          "weapon" : "Sawed-Off",
+          "skin" : "Yorick",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_gs_sawedoff_necromancer_light_large.8cead257afdfaf5b852a61d2358aa3fb84def860.png"
+      },
+      {
+          "weapon" : "SG553",
+          "skin" : "Aerial",
+          "float" : {"min" : 0.00, "max" : 0.60},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_sg553_aerial_light_large.a123874095a96a92aaacd0f64a4fef54fa455e82.png"
+      }
+  ],
+  "restricted" : [
+      {
+          "weapon" : "UMP-45",
+          "skin" : "Scaffold",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_gs_ump_abyss_light_large.55910298a6be9b071156ef176a31d26007d92d0f.png"
+      },
+      {
+          "weapon" : "Dual Berettas",
+          "skin" : "Panther",
+          "float" : {"min" : 0.00, "max" : 0.58},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_so_panther_light_large.019431b3fca18b027d07fe29d0ee7bf88df75576.png"
+      },
+      {
+          "weapon" : "M4A1-S",
+          "skin" : "Icarus Fell",
+          "float" : {"min" : 0.00, "max" : 0.10},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_hy_icarus_light_large.4af0a9b1122471816242601013d478ade6a0697b.png"
+      }
+  ],
+  "classified" : [
+      {
+          "weapon" : "AWP",
+          "skin" : "Redline",
+          "float" : {"min" : 0.10, "max" : 0.40},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_cobra_light_large.cf20ce6ac1151b4a30d8a84081ec4373cbfad4a4.png"
+      },
+      {
+          "weapon" : "FAMAS",
+          "skin" : "Mecha Industries",
+          "float" : {"min" : 0.00, "max" : 0.50},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_gs_famas_mecha_light_large.c26d3fccc156fe26ba3325ed73b29092b3e18093.png"
+      }
+  ],
+  "covert" : [
+      {
+          "weapon" : "PP-Bizon",
+          "skin" : "Judgement of Anubis",
+          "float" : {"min" : 0.00, "max" : 0.50},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_cu_bizon_curse_light_large.c19cf584d3e28db4914d1559cd387999457944d8.png"
+      },
+      {
+          "weapon" : "MAC-10",
+          "skin" : "Neon Rider",
+          "float" : {"min" : 0.00, "max" : 0.45},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_mac10_neonrider_light_large.e19de002e7c2dfe0a24bdbc56fff890ec45a0d6b.png"
+      }
+  ],
+  "special" : [
+      {
+          "weapon" : "Bayonet",
+          "skin" : "Doppler",
+          "float" : {"min" : 0.00, "max" : 0.08},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_am_doppler_phase1_light_large.2de778920740e6c402ab6ac36ff5e9410196fbe8.png"
+      },
+      {
+          "weapon" : "Bowie Knife",
+          "skin" : "Ultraviolet",
+          "float" : {"min" : 0.06, "max" : 0.80},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_so_purple_light_large.af202da5d81b8667477667b6db332769a96bf80e.png"
+      },
+      {
+          "weapon" : "Butterfly",
+          "skin" : "Marble Fade",
+          "float" : {"min" : 0.00, "max" : 0.08},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_am_marble_fade_light_large.c9170bcb854e5d3ed0f3a22bae8a4513fd46954a.png"
+      },
+      {
+          "weapon" : "Falchion Knife",
+          "skin" : "Crimson Web",
+          "float" : {"min" : 0.06, "max" : 0.80},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_hy_webs_light_large.9c355c7819b8fd993b543bceec976e798e6e8633.png"
+      },
+      {
+          "weapon" : "Flip Knife",
+          "skin" : "Gamma Doppler",
+          "float" : {"min" : 0.00, "max" : 0.08},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_am_gamma_doppler_phase1_light_large.7bf92c117841e553340bc5c0d0266cb458b92249.png"
+      },
+      {
+          "weapon" : "Gut Knife",
+          "skin" : "Lore",
+          "float" : {"min" : 0.00, "max" : 0.65},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_cu_gut_lore_light_large.5cf5a77978675bd3d276a86017e6d1fcacd7bf00.png"
+      },
+      {
+          "weapon" : "Karambit",
+          "skin" : "Freehand",
+          "float" : {"min" : 0.00, "max" : 0.48},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_am_marked_up_fine_light_large.8814a38afa2383489a723019fc9e6e43f021f047.png"
+      },
+      {
+          "weapon" : "M9 Bayonet",
+          "skin" : "Autotronic",
+          "float" : {"min" : 0.00, "max" : 0.85},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_gs_m9_bay_autotronic_light_large.f81f68f78b0b40717602fc88f62b4d7af346c430.png"
+      },
+      {
+          "weapon" : "Shadow Daggers",
+          "skin" : "Slaughter",
+          "float" : {"min" : 0.01, "max" : 0.26},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_am_zebra_light_large.a09a6cf348b102f80e87226cc71d03544e502703.png"
+      }
+  ]
+}

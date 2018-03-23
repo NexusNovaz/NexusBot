@@ -1,0 +1,127 @@
+{
+  "name" : "Mystic",
+
+  "mil-spec" : [
+      {
+          "weapon" : "FAMAS ",
+          "skin" : "Macabre",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_sp_famas_macabre_light_large.7582150e24a69922b814d6b56004327e2219890d.png"
+      },
+      {
+          "weapon" : "Tec-9",
+          "skin" : "Cut Out",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_aq_tec9_chalk_pattern_light_large.e0425d0a56ca5a2240b71495a5ef2bc4af0e9331.png"
+      },
+      {
+          "weapon" : "AWP",
+          "skin" : "Safari Mesh",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_sp_mesh_tan_light_large.3608cbeb9bb163bfd2becb4ebcce2576b9ca78d9.png"
+      },
+      {
+          "weapon" : "AWP",
+          "skin" : "Sun in Leo",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_hy_zodiac2_light_large.67da534322361569bd9637688b704b57232529fa.png"
+      }
+  ],
+  "restricted" : [
+      {
+          "weapon" : "AK-47",
+          "skin" : "Orbit Mk01",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_gs_ak_colony01_red_light_large.b688da7615b6e76fa34f775e200914dc44d5336c.png"
+      },{
+          "weapon" : "Tec-9",
+          "skin" : "Re-Entry",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_am_tec9_redblast_light_large.0f8de75737cc35ac1d14cf74924838da4d7ab849.png"
+      },
+      {
+          "weapon" : "Tec-9",
+          "skin" : "Titanium Bit",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_am_fluted_tec9_light_large.bfb4506150a675b24d3178f457507db2903364d6.png"
+      },
+      {
+          "weapon" : "M4A1-S",
+          "skin" : "Basilisk",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_aq_m4a1s_basilisk_light_large.18370d6557500376e137c7f6b07c7ed46c9dccf2.png"
+      },
+      {
+          "weapon" : "M4A1-S",
+          "skin" : "Icarus Fell",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_hy_icarus_light_large.4af0a9b1122471816242601013d478ade6a0697b.png"
+      }
+  ],
+  "classified" : [
+      {
+          "weapon" : "AK-47",
+          "skin" : "Frontside Misty",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_winter_sport_light_large.38cd1d1ce76c581e9ba3d6774ac1e700342fc0a1.png"
+      },
+	   {
+          "weapon" : "AK-47",
+          "skin" : "Cartel",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_aq_ak47_cartel_light_large.2e7be9f4c7bda304f2a7c374260d95affca93f0b.png"
+      },
+       {
+          "weapon" : "AK-47",
+          "skin" : "Point Disarray",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_point_disarray_light_large.ba0f6ccdcb917aa2bde2ef0312c57d763a61d341.png"
+      },
+	  {
+          "weapon" : "AK-47",
+          "skin" : "Case Hardened",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_aq_oiled_light_large.92c8d125e4e54758d37e946496030e9a18833b58.png"
+      },
+      {
+          "weapon" : "AWP",
+          "skin" : "Redline",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_cobra_light_large.cf20ce6ac1151b4a30d8a84081ec4373cbfad4a4.png"
+      }
+  ],
+  "covert" : [
+      {
+          "weapon" : "AWP",
+          "skin" : "Dragon Lore",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_medieval_dragon_awp_light_large.cb3b8168e59e96fd33efa9578206a2aaed036fc0.png"
+      },
+      {
+          "weapon" : "AWP",
+          "skin" : "Medusa",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_medusa_awp_light_large.05c6f5c67a2fbf7d042637568ba2ab25e44bb08c.png"
+      },
+      {
+          "weapon" : "USP-S",
+          "skin" : "Kill Confirmed",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_usp_kill_confirmed_light_large.a3a7b8f19c9fb931b18c1edd7dd21d44e2c3c2e0.png"
+      }
+  ],
+  "special" : [
+      {
+          "weapon" : "Karambit",
+          "skin" : "Tiger Tooth",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_an_tiger_orange_light_large.cd5a9d7da1f15b5360e825b7d8261210ce717643.png"
+      },
+      {
+          "weapon" : "Butterfly Knife",
+          "skin" : "Marble Fade",
+          "float" : {"min" : 0.00, "max" : 1.00},
+          "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_am_marble_fade_light_large.c9170bcb854e5d3ed0f3a22bae8a4513fd46954a.png"
+      }
+  ]
+}

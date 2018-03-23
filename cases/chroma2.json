@@ -1,0 +1,288 @@
+{
+    "name" : "Chroma 2",
+
+    "mil-spec" : [
+    {
+        "weapon" : "AK-47",
+        "skin" : "Elite Build",
+        "float" : {"min" : 0.00, "max" : 1.00},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_mastery_light_large.4305c0ba4b02ce531fc08c275fa6a9d87da2cf7e.png"
+    },
+    {
+        "weapon" : "Desert Eagle",
+        "skin" : "Bronze Deco",
+        "float" : {"min" : 0.00, "max" : 0.46},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_am_bronze_sparkle_light_large.42dc1d2bae9e586f75d6425f94a195014891533b.png"
+    },
+    {
+        "weapon" : "P250",
+        "skin" : "Valence",
+        "float" : {"min" : 0.00, "max" : 0.80},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_aq_p250_contour_light_large.faf5b305c68d8ea23814163b0a69dafa7318b818.png"
+    },
+    {
+        "weapon" : "MP7",
+        "skin" : "Armor Core",
+        "float" : {"min" : 0.00, "max" : 0.50},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_aq_mp7_ultramodern_light_large.5351e1926e4a9599d149c4941a8603f4143ff999.png"
+    },
+    {
+        "weapon" : "Sawed-Off",
+        "skin" : "Origami",
+        "float" : {"min" : 0.00, "max" : 0.55},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_cu_sawedoff_origami_light_large.5f1b3cef6d518cda69daafddd9b2c240a29cf0cc.png"
+    },
+    {
+        "weapon" : "Negev",
+        "skin" : "Man-O'-war",
+        "float" : {"min" : 0.10, "max" : 0.20},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_am_negev_glory_light_large.11ebbe525e92bd0a56dd4d3a7795a31a01823ba7.png"
+    }
+],
+    "restricted" : [
+    {
+        "weapon" : "AWP",
+        "skin" : "worm God",
+        "float" : {"min" : 0.00, "max" : 0.45},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_aq_awp_twine_light_large.f976c41b8f978d2b8d13734f14f6586982d859f1.png"
+    },
+    {
+        "weapon" : "MAG-7",
+        "skin" : "Heat",
+        "float" : {"min" : 0.00, "max" : 1.00},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_cu_mag7_redhot_light_large.76087a836e8c98fd10765a4b56dca946ba5acb4d.png"
+    },
+    {
+        "weapon" : "CZ75-Auto",
+        "skin" : "Pole Position",
+        "float" : {"min" : 0.00, "max" : 0.70},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_cu_cz75_precision_light_large.a0d0ea9d92ff9c535cbdaa9c07a1a95a5181a82b.png"
+    },
+    {
+        "weapon" : "UMP",
+        "skin" : "Grand Prix",
+        "float" : {"min" : 0.25, "max" : 0.35},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_am_ump_racer_light_large.6d935bf0d33ca90994b1dd9aec78a8938dcd94a2.png"
+    }
+],
+    "classified" : [
+    {
+        "weapon" : "Five-Seven",
+        "skin" : "Monkey Business",
+        "float" : {"min" : 0.10, "max" : 0.90},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_fiveseven_banana_light_large.2d78a6614cb329ada893c8d028eb5c2b485f26f0.png"
+    },
+    {
+        "weapon" : "Galil AR",
+        "skin" : "Eco",
+        "float" : {"min" : 0.10, "max" : 0.85},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_cu_galil_eco_light_large.7f64e2d77423b3c4263a74caeda18383c2e487d5.png"
+    },
+    {
+        "weapon" : "FAMAS",
+        "skin" : "Djinn",
+        "float" : {"min" : 0.00, "max" : 1.00},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_aq_famas_jinn_light_large.a0e1b8e2a572c5e3d6472181d4a0d6ce7f51139f.png"
+    }
+],
+    "covert" : [
+    {
+        "weapon" : "M4A1-S",
+        "skin" : "Hyper Beast",
+        "float" : {"min" : 0.00, "max" : 1.00},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1_hyper_beast_light_large.31850937661935a062d5f6faf5a1f02fdb90b861.png"
+    },
+    {
+        "weapon" : "MAC-10",
+        "skin" : "Neon Rider",
+        "float" : {"min" : 0.00, "max" : 0.45},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_mac10_neonrider_light_large.e19de002e7c2dfe0a24bdbc56fff890ec45a0d6b.png"
+    }
+],
+    "special" : [
+    {
+        "weapon" : "Bayonet",
+        "skin" : "Damascus Steel",
+        "float" : {"min" : 0.00, "max" : 0.05},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_aq_damascus_light_large.bd2b3b3fcd70fdec736a782fa5108ea9286d86a8.png"
+    },
+    {
+        "weapon" : "Karambit",
+        "skin" : "Damascus Steel",
+        "float" : {"min" : 0.00, "max" : 0.05},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_aq_damascus_light_large.47a76f786c10dcd8e0cabbf7d0ffaec93ea9960a.png"
+    },
+    {
+        "weapon" : "M9 Bayonet",
+        "skin" : "Damascus Steel",
+        "float" : {"min" : 0.00, "max" : 0.05},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_aq_damascus_90_light_large.c8510c6e031c61d9c1c2421df3b912125547dc83.png"
+    },
+    {
+        "weapon" : "Flip Knife",
+        "skin" : "Damascus Steel",
+        "float" : {"min" : 0.00, "max" : 0.05},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_aq_damascus_light_large.9b08bc30249a431d8ea084daf7d9fcb8da5e0e19.png"
+    },
+    {
+        "weapon" : "Gut Knife",
+        "skin" : "Damascus Steel",
+        "float" : {"min" : 0.00, "max" : 0.05},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_aq_damascus_light_large.9eaf9c050c3f5dfe5c647d361538a1ea7001f835.png"
+    },
+    {
+        "weapon" : "Bayonet",
+        "skin" : "Doppler",
+        "float" : {"min" : 0.00, "max" : 0.08},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_am_doppler_phase1_light_large.2de778920740e6c402ab6ac36ff5e9410196fbe8.png"
+    },
+    {
+        "weapon" : "Karambit",
+        "skin" : "Doppler",
+        "float" : {"min" : 0.00, "max" : 0.08},
+        "phase" : "Not implemented",
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_am_doppler_phase1_light_large.16c0819028af598b772826c2bc675712a1d5af37.png"
+    },
+    {
+        "weapon" : "M9 Bayonet",
+        "skin" : "Doppler",
+        "float" : {"min" : 0.00, "max" : 0.08},
+        "phase" : "Not implemented",
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_am_doppler_phase1_light_large.1a9960a6bba1a82aeab00b0207b4ff7c423a1f06.png"
+    },
+    {
+        "weapon" : "Flip Knife",
+        "skin" : "Doppler",
+        "float" : {"min" : 0.00, "max" : 0.08},
+        "phase" : "Not implemented",
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_am_doppler_phase1_light_large.64fbc93188ab47caa83c6bbde2f3940562f1b237.png"
+    },
+    {
+        "weapon" : "Gut Knife",
+        "skin" : "Doppler",
+        "float" : {"min" : 0.00, "max" : 0.08},
+        "phase" : "Not implemented",
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_am_doppler_phase1_light_large.2a4881ccbbddc3cc0969575b87dc33b7079508fb.png"
+    },
+    {
+        "weapon" : "Bayonet",
+        "skin" : "Marble Fade",
+        "float" : {"min" : 0.00, "max" : 0.08},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_am_marble_fade_light_large.adc286f39c98a9630620a97831ca2e5050229dff.png"
+    },
+    {
+        "weapon" : "Karambit",
+        "skin" : "Marble Fade",
+        "float" : {"min" : 0.00, "max" : 0.08},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_am_marble_fade_light_large.e5d0f471cc4aad8ddd6ede429afe8cd2d80c1cf2.png"
+    },
+    {
+        "weapon" : "M9 Bayonet",
+        "skin" : "Marble Fade",
+        "float" : {"min" : 0.00, "max" : 0.08},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_am_marble_fade_light_large.732b2c0e3c297968ccc0c7ecde0438ab995f9720.png"
+    },
+    {
+        "weapon" : "Flip Knife",
+        "skin" : "Marble Fade",
+        "float" : {"min" : 0.00, "max" : 0.08},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_am_marble_fade_light_large.57a993ab6632bab742dc96e8ebedf98473fa5b48.png"
+    },
+    {
+        "weapon" : "Gut Knife",
+        "skin" : "Marble Fade",
+        "float" : {"min" : 0.00, "max" : 0.08},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_am_marble_fade_light_large.85f1cad22ba4e6716045d53e9e0cf5459760d152.png"
+    },
+    {
+        "weapon" : "Bayonet",
+        "skin" : "Tiger Tooth",
+        "float" : {"min" : 0.00, "max" : 0.08},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_an_tiger_orange_light_large.780ff3a58d01a73d4d7d755adbdca46483d13faf.png"
+    },
+    {
+        "weapon" : "Karambit",
+        "skin" : "Tiger Tooth",
+        "float" : {"min" : 0.00, "max" : 0.08},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_an_tiger_orange_light_large.cd5a9d7da1f15b5360e825b7d8261210ce717643.png"
+    },
+    {
+        "weapon" : "M9 Bayonet",
+        "skin" : "Tiger Tooth",
+        "float" : {"min" : 0.00, "max" : 0.08},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_an_tiger_orange_light_large.49d5afb6d7f17cb0b384be1416a9533841174ac5.png"
+    },
+    {
+        "weapon" : "Flip Knife",
+        "skin" : "Tiger Tooth",
+        "float" : {"min" : 0.00, "max" : 0.08},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_an_tiger_orange_light_large.441c0d2cf427d90fb079e82af0d074c1bfad13e4.png"
+    },
+    {
+        "weapon" : "Gut Knife",
+        "skin" : "Tiger Tooth",
+        "float" : {"min" : 0.00, "max" : 0.08},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_an_tiger_orange_light_large.4590d3a96661c5e54af3285cb237077fc63d486b.png"
+    },
+    {
+        "weapon" : "Bayonet",
+        "skin" : "Rust Coat",
+        "float" : {"min" : 0.04, "max" : 1.00},
+        "icon" : "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJR-NmzmL-Amf7yNoTZk2pH8fp9i_vG8MLx2wTs-RU5YmmhIoaUdQ49NV3Q8li-wLzthZ7utMjNwSRjuSJw53ragVXp1ir4a_TV/512fx384f"
+    },
+    {
+        "weapon" : "Karambit",
+        "skin" : "Rust Coat",
+        "float" : {"min" : 0.04, "max" : 1.00},
+        "icon" : "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0hOPxNrfunWVY7sBOguzA45XKhFWmrBZyYGj0IdOTcANvYgzZ-QXrkOrphJS1v8jBzXVlvSEr4yrfmUfm1RhFZ_sv26IC487sHw/512fx384f"
+    },
+    {
+        "weapon" : "M9 Bayonet",
+        "skin" : "Rust Coat",
+        "float" : {"min" : 0.04, "max" : 1.00},
+        "icon" : "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-KhsjnJ77UmlRa5sx3j9bJ8I3jkWu4qgE7Nnf7IoCdJA85NAvXrgO3xLu9gZLotZvImHY1s3V04nqJzBTmhEpPZ-Q6m7XAHhi2BnJN/512fx384f"
+    },
+    {
+        "weapon" : "Flip Knife",
+        "skin" : "Rust Coat",
+        "float" : {"min" : 0.04, "max" : 1.00},
+        "icon" : "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD_eOlgIWOm8j_PbLXk1RZ7cRnk9bN9J7yjRrkqEM5ZWHzJtKSdlVtY1-EqwDskrzogpK0vsicnHY373Ik5i7cmUeyn1gSOUyfWtyC/512fx384f"
+    },
+    {
+        "weapon" : "Gut Knife",
+        "skin" : "Rust Coat",
+        "float" : {"min" : 0.04, "max" : 1.00},
+        "icon" : "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxT08-ikYWHqPz6Or3UqWNU6dNoteXA54vwxgDlrxdtZjr3J4GXdQI4aA6DrgO_kLzvhp6-vczAyyA36ykk5XeLn0epwUYbYI3sIZ8/512fx384f"
+    },
+    {
+        "weapon" : "Bayonet",
+        "skin" : "Ultraviolet",
+        "float" : {"min" : 0.60, "max" : 0.80},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_so_purple_light_large.c7f08cb18f5cc792a27e186ee630614b93c35200.png"
+    },
+    {
+        "weapon" : "Karambit",
+        "skin" : "Ultraviolet",
+        "float" : {"min" : 0.60, "max" : 0.80},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_so_purple_light_large.c30d6c61e9ec2e808b845d594a615e4623d56ee5.png"
+    },
+    {
+        "weapon" : "M9 Bayonet",
+        "skin" : "Ultraviolet",
+        "float" : {"min" : 0.60, "max" : 0.80},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_so_purple_light_large.5ca833ab51b7a972d9b5bb7792c88957a69c4b4c.png"
+    },
+    {
+        "weapon" : "Flip Knife",
+        "skin" : "Ultraviolet",
+        "float" : {"min" : 0.60, "max" : 0.80},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_so_purple_light_large.6a76bb50dd3ebf15bd94cc5e0d39daf34b02270f.png"
+    },
+    {
+        "weapon" : "Gut Knife",
+        "skin" : "Ultraviolet",
+        "float" : {"min" : 0.60, "max" : 0.80},
+        "icon" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_so_purple_light_large.dbe6989416501166c43bd1cfb18ee835dbfa0ac7.png"
+    }
+]
+}
